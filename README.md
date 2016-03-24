@@ -17,6 +17,12 @@ fisher i herrbischoff/fish-osx
 
 No settings.
 
+### lscleanup
+
+> Clean up LaunchServices to remove duplicates in the "Open With" menu.
+
+No settings.
+
 ### update
 
 > Get OS X Software Updates, update installed Ruby gems, Homebrew, npm, pip and their installed packages.
