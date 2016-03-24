@@ -11,6 +11,12 @@ fisher i herrbischoff/fish-osx
 
 ## Usage
 
+### emptytrash
+
+> Empty the Trash on all mounted volumes and the main HDD. Also, clear Apple’s System Logs to improve shell startup speed.
+
+No settings.
+
 ### flushdns
 
 > Flush DNS cache.
