@@ -11,6 +11,12 @@ fisher i herrbischoff/fish-osx
 
 ## Usage
 
+### flushdns
+
+> Flush DNS cache.
+
+No settings.
+
 ### update
 
 > Get OS X Software Updates, update installed Ruby gems, Homebrew, npm, pip and their installed packages.
