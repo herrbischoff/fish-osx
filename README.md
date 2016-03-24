@@ -11,6 +11,12 @@ fisher i herrbischoff/fish-osx
 
 ## Usage
 
+### dscleanup
+
+> Recursively delete `.DS_Store` files from current folder.
+
+No settings.
+
 ### emptytrash
 
 > Empty the Trash on all mounted volumes and the main HDD. Also, clear Apple’s System Logs to improve shell startup speed.
