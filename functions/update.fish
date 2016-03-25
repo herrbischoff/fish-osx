@@ -25,8 +25,8 @@ function update
         end
         if contains pip $fish_osx
             echo "=====[ pip ]======================================================"; and \
-            sudo python -m pip install --upgrade (python -m pip list --outdated | awk '/.*/ {print $1}'); and \
-            sudo python3 -m pip install --upgrade (python3 -m pip list --outdated | awk '/.*/ {print $1}')
+            python -m pip install --upgrade (python -m pip list --outdated | awk '/.*/ {print $1}'); and \
+            python3 -m pip install --upgrade (python3 -m pip list --outdated | awk '/.*/ {print $1}')
         end
     case '*'
         echo Command not supported on (uname).
