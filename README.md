@@ -35,6 +35,16 @@ No settings.
 
 No settings.
 
+### mkicns
+
+> An easy way to create .icns files.
+
+```fish
+mkicns <image.png>
+```
+
+No settings.
+
 ### update
 
 > Get OS X Software Updates, update installed Ruby gems, Homebrew, npm, pip and their installed packages.
